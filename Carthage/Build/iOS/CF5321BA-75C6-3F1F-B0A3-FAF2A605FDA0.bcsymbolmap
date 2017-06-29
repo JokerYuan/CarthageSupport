@@ -1,0 +1,19 @@
+BCSymbolMap Version: 2.0
+-[JKViewController viewDidLoad]
+-[JKViewController didReceiveMemoryWarning]
+-[JKViewController checkCommitEnable]
+-[JKViewController customTitle]
+-[JKViewController setCustomTitle:]
+-[JKViewController .cxx_destruct]
+_OBJC_IVAR_$_JKViewController._customTitle
+Apple LLVM version 8.1.0 (clang-802.0.42)
+/Users/joker/Desktop/CarthageSupport/CarthageSupport/JKViewFrame/JKViewController.m
+/Users/joker/desktop/CarthageSupport
+/Users/joker/Desktop/CarthageSupport/CarthageSupport/JKViewFrame/JKViewController.h
+-[JKView x]
+-[JKView getViewFrame]
+-[JKView setX:]
+_OBJC_IVAR_$_JKView._x
+/Users/joker/Desktop/CarthageSupport/CarthageSupport/JKViewFrame/JKView.m
+/Users/joker/Desktop/CarthageSupport/CarthageSupport/JKViewFrame/JKView.h
+/Users/joker/Library/Developer/Xcode/DerivedData/CarthageSupport-awseonecwcghmhawwupkumuylydy/Build/Intermediates/CarthageSupport.build/Release-iphoneos/JKViewFrameFramework.build/DerivedSources/JKViewFrame_vers.c

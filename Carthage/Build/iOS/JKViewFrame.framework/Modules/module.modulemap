@@ -1,0 +1,6 @@
+framework module JKViewFrame {
+  umbrella header "JKViewFrame.h"
+
+  export *
+  module * { export * }
+}

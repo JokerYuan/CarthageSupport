@@ -9,6 +9,11 @@
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
+		<key>JKViewFrameFramework.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
@@ -23,6 +28,16 @@
 			<true/>
 		</dict>
 		<key>F329976F1F04EFF100AAE111</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>F32997921F04F27300AAE111</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>F329979A1F04F27300AAE111</key>
 		<dict>
 			<key>primary</key>
 			<true/>
